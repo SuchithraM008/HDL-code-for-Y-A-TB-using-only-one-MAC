@@ -1,6 +1,6 @@
 // Designing in Half Adder 
 // Sum = a XOR b, Cout = a AND b
-// --- Written by Dr. Vikram ---
+
 
 module Half_Adder(a, b, Sum, Cout);
 
