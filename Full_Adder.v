@@ -1,6 +1,6 @@
 // Designing in Full Adder 
 // Sum = a XOR b XOR cin, Cout = (a AND b) OR ( cin AND (a XOR b))
-// --- Written by Dr. Vikram ---
+
 
 module Full_Adder(a, b, cin, Sum, Cout);
 
