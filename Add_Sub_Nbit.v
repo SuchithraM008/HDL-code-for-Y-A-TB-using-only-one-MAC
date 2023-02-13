@@ -1,7 +1,7 @@
 // S = A + (-1)^k B  = A + k XOR B + k
 // A and B are N-bits, k is single bit
 //Output S is  N+1-bits
-//---- Written by Dr. Vikram ----
+//---- Written by SaketRam, Suchithra and Surya ----
 
 module Add_Sub_Nbit #(parameter N=4)(A,B, k, S);
 //parameter N = 4;
